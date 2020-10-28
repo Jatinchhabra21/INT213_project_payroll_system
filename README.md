@@ -4,9 +4,9 @@
     <tt> CONTRIBUTORS:</tt>
     <br>
     <ul>
-      <li>Jatin Chhabra</li>
-      <li>Sneha Maiti</li>
-      <li>Divyam Sharma</li>
+      <li>Jatin Chhabra - 11901544</li>
+      <li>Sneha Maiti - 11904674</li>
+      <li>Divyam Sharma - 11901453</li>
   </body>
 </html>
   
