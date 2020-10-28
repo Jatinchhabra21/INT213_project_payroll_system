@@ -7,6 +7,8 @@
       <li>Jatin Chhabra - 11901544</li>
       <li>Sneha Maiti - 11904674</li>
       <li>Divyam Sharma - 11901453</li>
+    </ul>
+    <p>Open and run payrollGUI.py file</p>
   </body>
 </html>
   
